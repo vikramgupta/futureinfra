@@ -1,0 +1,11 @@
+.clearFieldBlurred
+{
+    color: #666;
+    font-style: italic;
+}
+
+.clearFieldActive
+{
+    color: #000;
+}
+
